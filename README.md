@@ -7,7 +7,7 @@ Day 1:July 14,2022
 Today I familiarised myself with elm the programming language
 Learning:
 
-Markup: *Simple arithmetics
+*Simple arithmetics
 *Comparisons
 *If statement
 *Functions
