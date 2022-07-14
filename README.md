@@ -7,11 +7,11 @@ Day 1:July 14,2022
 Today I familiarised myself with elm the programming language
 Learning:
 
-*Simple arithmetics
-*Comparisons
-*If statement
-*Functions
->Let function
->case function
->Init,Update,Msg,main,view
->Counter Program
+* Simple arithmetics
+* Comparisons
+* If statement
+* Functions
+* Let function
+* case function
+* Init,Update,Msg,main,view
+* Counter Program
