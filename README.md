@@ -18,5 +18,5 @@ Learning:
 
 ## Day 2:July 15,2022
 
-Today I built some elm apps to better understand the syntax of elm
+Today I built an elm app to better understand the syntax of elm
 * todo list
