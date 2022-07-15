@@ -2,7 +2,7 @@
 Interned at IIIT Hyderabad
 Intership is from 14th July 2022 to 14thJuly 2023 
 
-Day 1:July 14,2022
+##Day 1:July 14,2022
 
 Today I familiarised myself with elm the programming language
 Learning:
@@ -15,3 +15,8 @@ Learning:
 * case function
 * Init,Update,Msg,main,view
 * Counter Program
+
+##Day 2:July 15,2022
+
+Today I built some elm apps to better understand the syntax of elm
+* todo list
