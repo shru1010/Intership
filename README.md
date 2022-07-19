@@ -1,20 +1,11 @@
 # Intership
 Interned at IIIT Hyderabad
 Intership is from 14th July 2022 to 14thJuly 2023 
+Worked under Proffessor Venkatesh Choppella.
 
 ## Day 1:July 14,2022
 
-Today I familiarised myself with elm the programming language
-Learning:
-
-* Simple arithmetics
-* Comparisons
-* If statement
-* Functions
-* Let function
-* case function
-* Init,Update,Msg,main,view
-* Counter Program
+Today I familiarised myself with elm the programming language inclusign syntax,loops,arithmetics and functions.
 
 ## Day 2:July 15,2022
 
