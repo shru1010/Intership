@@ -20,5 +20,8 @@ I practiced writing more basic elm code.
 I worked on building a calculator app on elm
 I wrote the View,Msg and parts of the model and update section.
 
+## Day 5:July 20,2022
+
+I updated the functions and completed writing the model and parsed button clicks to go from String to Float.
 
 
