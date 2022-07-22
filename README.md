@@ -24,4 +24,10 @@ I wrote the View,Msg and parts of the model and update section.
 
 I updated the functions and completed writing the model and parsed button clicks to go from String to Float.
 
+## Day 6:July 21,2022
 
+I successfully built a functioning calculator app
+
+## Day 7:July 22,2022
+
+I revised OS concepts that are needed to build transition states for the experiments.(Process states and context switches)
