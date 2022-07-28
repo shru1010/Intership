@@ -55,4 +55,8 @@ I read about Bankers algorithm and Dining philospers problem.Also worked on desi
 
 
 
-#...
+# Links to recources used
+
+* https://elmprogramming.com/
+* https://www.youtube.com/watch?v=Rf2CkojtxFw&list=PLJbE2Yu2zumBjR9uDes8DBq4algPzZ1qO&index=7
+* https://youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p
