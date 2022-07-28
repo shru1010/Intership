@@ -31,3 +31,28 @@ I successfully built a functioning calculator app
 ## Day 7:July 22,2022
 
 I revised OS concepts that are needed to build transition states for the experiments.(Process states and context switches)
+
+##Day 8:July 25,2022
+
+I read about Context Switching and some CPU schedualing algorithms.
+
+##Day 9:July 26,2022
+
+I read about CPU schedualing algorithms.
+* Round Robin
+* FIFS (Preemption and Non-Preemption)
+* SJF (Preemption and Non-Preemption)
+
+## Day 10:July 27,2022
+
+I read about System Calls,threads,Mutual Exclusion in Critical Sections
+
+## Day 11:July 28,2022
+
+I read about Bankers algorithm and Dining philospers problem.Also worked on designing the UI for the experiments.
+
+
+
+
+
+#...
