@@ -32,11 +32,11 @@ I successfully built a functioning calculator app
 
 I revised OS concepts that are needed to build transition states for the experiments.(Process states and context switches)
 
-##Day 8:July 25,2022
+## Day 8:July 25,2022
 
 I read about Context Switching and some CPU schedualing algorithms.
 
-##Day 9:July 26,2022
+## Day 9:July 26,2022
 
 I read about CPU schedualing algorithms.
 * Round Robin
