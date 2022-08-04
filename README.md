@@ -51,7 +51,9 @@ I read about System Calls,threads,Mutual Exclusion in Critical Sections
 
 I read about Bankers algorithm and Dining philospers problem.Also worked on designing the UI for the experiments.
 
+## Day smth:August 3,2022
 
+I practiced DOM concepts by building a web app for playing drums.
 
 
 
