@@ -51,11 +51,27 @@ I read about System Calls,threads,Mutual Exclusion in Critical Sections
 
 I read about Bankers algorithm and Dining philospers problem.Also worked on designing the UI for the experiments.
 
-## Day smth:August 3,2022
+## Day 12:July 29,2022
+
+
+## Day 13:August 1,2022
+
+
+## Day 14:August 2,2022
+
+
+
+## Day 15:August 3,2022
+
+
+
+## Day 16:August 4,2022
 
 I practiced DOM concepts by building a web app for playing drums.
 
+## Day 17:August 5,2022
 
+I practiced react JS.
 
 # Links to resources used
 
