@@ -1,4 +1,4 @@
-# Intership
+# Internship
 Interned at IIIT Hyderabad
 Intership is from 14th July 2022 to 14thJuly 2023 
 I have learnt,used and applied technologies including:
