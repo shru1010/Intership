@@ -1,7 +1,11 @@
 # Intership
 Interned at IIIT Hyderabad
 Intership is from 14th July 2022 to 14thJuly 2023 
-Worked under Proffessor Venkatesh Choppella.
+I have learnt,used and applied technologies including:
+* Elm
+* React JS
+* 
+Worked under Professor Venkatesh Choppella and had Professor Chakravarti Bhagvathi as my internal coordinator.
 
 ## Day 1:July 14,2022
 
@@ -60,9 +64,7 @@ I read about Bankers algorithm and Dining philospers problem.Also worked on desi
 ## Day 14:August 2,2022
 
 
-
 ## Day 15:August 3,2022
-
 
 
 ## Day 16:August 4,2022
