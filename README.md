@@ -75,6 +75,16 @@ I practiced DOM concepts by building a web app for playing drums.
 
 I practiced react JS.
 
+## Day 18:August 8,2022
+
+I have gone throught the built components and tried to uneratand their code.Learnt about props and bind.
+
+## Day 19:August 10,2022
+
+I have built Log component for the experiments.
+
+
+
 # Links to resources used
 
 * https://elmprogramming.com/
