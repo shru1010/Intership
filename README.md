@@ -83,6 +83,10 @@ I have gone throught the built components and tried to uneratand their code.Lear
 
 I have built Log component for the experiments.
 
+## Day 20:August 11,2022
+
+I have added scroll to the log component Log component for the experiments.
+
 
 
 # Links to resources used
