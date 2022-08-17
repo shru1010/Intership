@@ -85,9 +85,11 @@ I have built Log component for the experiments.
 
 ## Day 20:August 11,2022
 
-I have added scroll to the log component Log component for the experiments.
+I have added scroll to the log component Log component for the experiments.I also designed the UI for experiment 2.
 
+## Day 21:August 16,2022
 
+I have designed UI for experiment for experment 3.
 
 # Links to resources used
 
