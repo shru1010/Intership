@@ -4,7 +4,10 @@ Intership is from 14th July 2022 to 14thJuly 2023
 I have learnt,used and applied technologies including:
 * Elm
 * React JS
-* 
+* SVG(Scalable Vector Graphics)
+*
+*
+*
 Worked under Professor Venkatesh Choppella and had Professor Chakravarti Bhagvathi as my internal coordinator.
 
 ## Day 1:July 14,2022
@@ -89,10 +92,17 @@ I have added scroll to the log component Log component for the experiments.I als
 
 ## Day 21:August 16,2022
 
-I have designed UI for experiment for experment 3.
+I have designed UI for experiment for experiment 3.
+
+## Day 22 August 22,2022
+
+I have built the basic view component for experiment 3 learnt a new language,its called SVG,it is helpful when we want to create diagrams flow charts and other visual elements.I used W3school resources and also http://thenewcode.com/1068/Making-Arrows-in-SVG to help me build the polylines for the diagram.
+
+
 
 # Links to resources used
 
 * https://elmprogramming.com/
 * https://www.youtube.com/watch?v=Rf2CkojtxFw&list=PLJbE2Yu2zumBjR9uDes8DBq4algPzZ1qO&index=7
 * https://youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p
+* http://thenewcode.com/1068/Making-Arrows-in-SVG
