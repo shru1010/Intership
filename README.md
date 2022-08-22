@@ -76,7 +76,7 @@ I practiced DOM concepts by building a web app for playing drums.
 
 ## Day 17:August 5,2022
 
-I practiced react JS.
+I practiced react JS, and learnt about flex box.
 
 ## Day 18:August 8,2022
 
