@@ -94,10 +94,13 @@ I have added scroll to the log component Log component for the experiments.I als
 
 I have designed UI for experiment for experiment 3.
 
-## Day 22 August 22,2022
+## Day 22:August 22,2022
 
 I have built the basic view component for experiment 3 learnt a new language,its called SVG,it is helpful when we want to create diagrams flow charts and other visual elements.I used W3school resources and also http://thenewcode.com/1068/Making-Arrows-in-SVG to help me build the polylines for the diagram.
 
+## Day 23:August 23,2022
+
+Finished the view component.
 
 
 # Links to resources used
