@@ -102,6 +102,12 @@ I have built the basic view component for experiment 3 learnt a new language,its
 
 Finished the view component.
 
+## Day 24:August 25,2022
+
+Finished view component for experiment 4. Used W3schools for documentation help.
+
+## Day 25:August 26,2022
+
 
 # Links to resources used
 
