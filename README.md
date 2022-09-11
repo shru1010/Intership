@@ -5,7 +5,7 @@ I have learnt,used and applied technologies including:
 * Elm
 * React JS
 * SVG(Scalable Vector Graphics)
-*Lit(for lightweight web comps)
+* Lit(for lightweight web comps)
 *
 *
 Worked under Professor Venkatesh Choppella and had Professor Chakravarti Bhagvathi as my internal coordinator.
