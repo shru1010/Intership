@@ -5,7 +5,7 @@ I have learnt,used and applied technologies including:
 * Elm
 * React JS
 * SVG(Scalable Vector Graphics)
-*
+*Lit(for lightweight web comps)
 *
 *
 Worked under Professor Venkatesh Choppella and had Professor Chakravarti Bhagvathi as my internal coordinator.
@@ -108,6 +108,14 @@ Finished view component for experiment 4. Used W3schools for documentation help.
 
 ## Day 25:August 26,2022
 
+## Day :September 8th,2022
+  
+ Learning about Lit from tutorials
+ 
+ ## Day :September 9th,2022
+ 
+ Implementing and changed componets and App.js to Lit.
+
 
 # Links to resources used
 
@@ -115,3 +123,4 @@ Finished view component for experiment 4. Used W3schools for documentation help.
 * https://www.youtube.com/watch?v=Rf2CkojtxFw&list=PLJbE2Yu2zumBjR9uDes8DBq4algPzZ1qO&index=7
 * https://youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p
 * http://thenewcode.com/1068/Making-Arrows-in-SVG
+* https://lit.dev/tutorials/intro-to-lit
